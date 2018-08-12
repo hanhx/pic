@@ -22,6 +22,7 @@ public class PicUtil {
         } catch (Exception e) {
             e.printStackTrace();
         }
+        //
         List<Point> pointList = new ArrayList<>();
         int width = bi.getWidth();
         int height = bi.getHeight();
